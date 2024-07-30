@@ -1,0 +1,311 @@
+------ Begin Next Fly'm ------
+
+
+ Begin Fly'm (Mon Jul 29 14:42:07 2024) 
+ Ions Flown Separately, Comp Quality(3) 
+ Number of Ions to Fly = 30 
+ Changes: Mass, Charge,   X,   Y,   Z,  KE,  Azm, Elv, Time of Birth 
+           NO     NO     NO   NO   NO   YES  NO   YES      NO  
+
+
+
+Ion(1) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10299.4 mm/usec) Azm(0 deg) Elv(30 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(301.826 eV) 
+KE_Error(2.94449e-011 eV) 
+
+Ion(1) Event(Hit Electrode) TOF(0.00896896 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(100 mm) Y(46.1874 mm) Z(0 mm) Vt(10299.4 mm/usec) Azm(-0 deg) 
+Elv(30 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(301.826 eV) KE_Error(2.94449e-011 eV) 
+
+Ion(2) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10321.5 mm/usec) Azm(0 deg) Elv(28 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(303.123 eV) 
+KE_Error(5.16138e-011 eV) 
+
+Ion(2) Event(Hit Electrode) TOF(0.0089977 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(102 mm) Y(43.5996 mm) Z(0 mm) Vt(10321.5 mm/usec) Azm(-0 deg) 
+Elv(28 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(303.123 eV) KE_Error(5.16138e-011 eV) 
+
+Ion(3) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10261.4 mm/usec) Azm(0 deg) Elv(26 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(299.604 eV) 
+KE_Error(3.69482e-012 eV) 
+
+Ion(3) Event(Hit Electrode) TOF(0.00911451 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(104.063 mm) Y(41 mm) Z(0 mm) Vt(10261.4 mm/usec) Azm(-0 deg) 
+Elv(26 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(299.604 eV) KE_Error(3.69482e-012 eV) 
+
+Ion(4) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10295.4 mm/usec) Azm(0 deg) Elv(24 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(301.589 eV) 
+KE_Error(7.90124e-012 eV) 
+
+Ion(4) Event(Hit Electrode) TOF(0.00955224 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(109.842 mm) Y(40 mm) Z(0 mm) Vt(10295.4 mm/usec) Azm(-0 deg) 
+Elv(24 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(301.589 eV) KE_Error(7.90124e-012 eV) 
+
+Ion(5) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10304.4 mm/usec) Azm(0 deg) Elv(22 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(302.121 eV) 
+KE_Error(1.48361e-011 eV) 
+
+Ion(5) Event(Hit Electrode) TOF(0.0103624 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(119.004 mm) Y(40 mm) Z(0 mm) Vt(10304.4 mm/usec) Azm(-0 deg) 
+Elv(22 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(302.121 eV) KE_Error(1.48361e-011 eV) 
+
+Ion(6) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10297.1 mm/usec) Azm(0 deg) Elv(20 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(301.693 eV) 
+KE_Error(2.78533e-012 eV) 
+
+Ion(6) Event(Hit Electrode) TOF(0.0113577 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(129.9 mm) Y(40 mm) Z(0 mm) Vt(10297.1 mm/usec) Azm(-0 deg) 
+Elv(20 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(301.693 eV) KE_Error(2.78533e-012 eV) 
+
+Ion(7) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10280.5 mm/usec) Azm(0 deg) Elv(18 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(300.718 eV) 
+KE_Error(2.98428e-011 eV) 
+
+Ion(7) Event(Hit Electrode) TOF(0.0125911 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(143.108 mm) Y(40 mm) Z(0 mm) Vt(10280.5 mm/usec) Azm(-0 deg) 
+Elv(18 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(300.718 eV) KE_Error(2.98428e-011 eV) 
+
+Ion(8) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10239.2 mm/usec) Azm(0 deg) Elv(16 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(298.304 eV) 
+KE_Error(4.75779e-011 eV) 
+
+Ion(8) Event(Hit Electrode) TOF(0.0602345 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(612.861 mm) Y(170 mm) Z(0 mm) Vt(10239.2 mm/usec) Azm(-0 deg) 
+Elv(16 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(298.304 eV) KE_Error(4.75779e-011 eV) 
+
+Ion(9) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10305.9 mm/usec) Azm(0 deg) Elv(14 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(302.21 eV) 
+KE_Error(5.57066e-012 eV) 
+
+Ion(9) Event(Hit Electrode) TOF(0.0616011 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(636 mm) Y(153.586 mm) Z(0 mm) Vt(10305.9 mm/usec) Azm(-0 deg) 
+Elv(14 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(302.21 eV) KE_Error(5.57066e-012 eV) 
+
+Ion(10) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10293.3 mm/usec) Azm(0 deg) Elv(12 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(301.466 eV) 
+KE_Error(6.0254e-012 eV) 
+
+Ion(10) Event(Hit Electrode) TOF(0.0635656 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(660 mm) Y(136.036 mm) Z(0 mm) Vt(10293.3 mm/usec) Azm(-0 deg) 
+Elv(12 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(301.466 eV) KE_Error(6.0254e-012 eV) 
+
+Ion(11) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10277.9 mm/usec) Azm(0 deg) Elv(10 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(300.569 eV) 
+KE_Error(1.66551e-011 eV) 
+
+Ion(11) Event(Hit Electrode) TOF(0.0657985 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(686 mm) Y(117.434 mm) Z(0 mm) Vt(10277.9 mm/usec) Azm(-0 deg) 
+Elv(10 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(300.569 eV) KE_Error(1.66551e-011 eV) 
+
+Ion(12) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10374.4 mm/usec) Azm(0 deg) Elv(8 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(306.24 eV) 
+KE_Error(1.13687e-013 eV) 
+
+Ion(12) Event(Hit Electrode) TOF(0.067553 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(714 mm) Y(97.5352 mm) Z(0 mm) Vt(10374.4 mm/usec) Azm(-0 deg) 
+Elv(8 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(306.24 eV) KE_Error(1.13687e-013 eV) 
+
+Ion(13) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10255.8 mm/usec) Azm(0 deg) Elv(6 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(299.274 eV) 
+KE_Error(9.66338e-012 eV) 
+
+Ion(13) Event(Hit Electrode) TOF(0.070894 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(743.093 mm) Y(76 mm) Z(0 mm) Vt(10255.8 mm/usec) Azm(-0 deg) 
+Elv(6 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(299.274 eV) KE_Error(9.66338e-012 eV) 
+
+Ion(14) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10286.6 mm/usec) Azm(0 deg) Elv(4 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(301.078 eV) 
+KE_Error(4.43379e-012 eV) 
+
+Ion(14) Event(Hit Electrode) TOF(0.116345 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(1450.07 mm) Y(100 mm) Z(0 mm) Vt(21352.5 mm/usec) Azm(-0 deg) 
+Elv(3.99998 deg) Grad_E(1.84062e-005 V/mm) dE/dx(2.27374e-013 V/mm) 
+dE/dy(-1.84062e-005 V/mm) dE/dz(0 V/mm) KE(1301.08 eV) KE_Error(0.000551713 eV) 
+
+Ion(15) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10283.7 mm/usec) Azm(0 deg) Elv(2 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(300.906 eV) 
+KE_Error(2.7967e-011 eV) 
+
+Ion(15) Event(Hit Electrode) TOF(0.215682 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(4415 mm) Y(-113.032 mm) Z(0 mm) Vt(22927.5 mm/usec) Azm(-0 deg) 
+Elv(0.615661 deg) Grad_E(0.000141527 V/mm) dE/dx(-0.000141527 V/mm) 
+dE/dy(4.20641e-012 V/mm) dE/dz(0 V/mm) KE(1500.97 eV) KE_Error(0.0618743 eV) 
+
+Ion(16) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10337 mm/usec) Azm(0 deg) Elv(0 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(304.039 eV) 
+KE_Error(3.56977e-011 eV) 
+
+Ion(16) Event(Outside Work Bench) TOF(0.449501 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(10411 mm) Y(0 mm) Z(0 mm) Vt(28373.2 mm/usec) Azm(-0 deg) 
+Elv(0 deg) Grad_E(1.07377e-010 V/mm) dE/dx(1.07377e-010 V/mm) dE/dy(0 V/mm) 
+dE/dz(0 V/mm) KE(2304.07 eV) KE_Error(0.0300322 eV) 
+
+Ion(17) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10246 mm/usec) Azm(0 deg) Elv(-2 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(298.699 eV) 
+KE_Error(1.92131e-011 eV) 
+
+Ion(17) Event(Hit Electrode) TOF(0.216113 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(4415 mm) Y(112.737 mm) Z(0 mm) Vt(22910.7 mm/usec) Azm(-0 deg) 
+Elv(-0.64007 deg) Grad_E(0.000143053 V/mm) dE/dx(-0.000143053 V/mm) 
+dE/dy(-5.22959e-012 V/mm) dE/dz(-0 V/mm) KE(1498.77 eV) KE_Error(0.0661173 eV) 
+
+Ion(18) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10257.6 mm/usec) Azm(0 deg) Elv(-4 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(299.379 eV) 
+KE_Error(6.05951e-011 eV) 
+
+Ion(18) Event(Hit Electrode) TOF(0.116627 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(1450.07 mm) Y(-100 mm) Z(0 mm) Vt(21338.6 mm/usec) Azm(-0 deg) 
+Elv(-3.99998 deg) Grad_E(1.84062e-005 V/mm) dE/dx(1.98952e-013 V/mm) 
+dE/dy(1.84062e-005 V/mm) dE/dz(0 V/mm) KE(1299.38 eV) KE_Error(0.000562084 eV) 
+
+Ion(19) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10278.9 mm/usec) Azm(0 deg) Elv(-6 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(300.625 eV) 
+KE_Error(3.09797e-011 eV) 
+
+Ion(19) Event(Hit Electrode) TOF(0.0707346 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(743.093 mm) Y(-76 mm) Z(0 mm) Vt(10278.9 mm/usec) Azm(-0 deg) 
+Elv(-6 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(300.625 eV) KE_Error(3.09797e-011 eV) 
+
+Ion(20) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10243.2 mm/usec) Azm(0 deg) Elv(-8 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(298.536 eV) 
+KE_Error(1.53477e-011 eV) 
+
+Ion(20) Event(Hit Electrode) TOF(0.0684183 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(714 mm) Y(-97.5352 mm) Z(0 mm) Vt(10243.2 mm/usec) Azm(-0 deg) 
+Elv(-8 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(298.536 eV) KE_Error(1.53477e-011 eV) 
+
+Ion(21) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10255.4 mm/usec) Azm(0 deg) Elv(-10 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(299.253 eV) 
+KE_Error(2.78533e-011 eV) 
+
+Ion(21) Event(Hit Electrode) TOF(0.0659429 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(686 mm) Y(-117.434 mm) Z(0 mm) Vt(10255.4 mm/usec) Azm(-0 deg) 
+Elv(-10 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(299.253 eV) KE_Error(2.78533e-011 eV) 
+
+Ion(22) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10237 mm/usec) Azm(0 deg) Elv(-12 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(298.179 eV) 
+KE_Error(2.7228e-011 eV) 
+
+Ion(22) Event(Hit Electrode) TOF(0.0639146 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(660 mm) Y(-136.036 mm) Z(0 mm) Vt(10237 mm/usec) Azm(-0 deg) 
+Elv(-12 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(298.179 eV) KE_Error(2.7228e-011 eV) 
+
+Ion(23) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10189.6 mm/usec) Azm(0 deg) Elv(-14 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(295.421 eV) 
+KE_Error(1.59162e-012 eV) 
+
+Ion(23) Event(Hit Electrode) TOF(0.0623042 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(636 mm) Y(-153.586 mm) Z(0 mm) Vt(10189.6 mm/usec) Azm(-0 deg) 
+Elv(-14 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(295.421 eV) KE_Error(1.59162e-012 eV) 
+
+Ion(24) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10258 mm/usec) Azm(0 deg) Elv(-16 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(299.404 eV) 
+KE_Error(3.47313e-011 eV) 
+
+Ion(24) Event(Hit Electrode) TOF(0.0601239 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(612.861 mm) Y(-170 mm) Z(0 mm) Vt(10258 mm/usec) Azm(-0 deg) 
+Elv(-16 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(299.404 eV) KE_Error(3.47313e-011 eV) 
+
+Ion(25) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10233.8 mm/usec) Azm(0 deg) Elv(-18 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(297.993 eV) 
+KE_Error(3.75735e-011 eV) 
+
+Ion(25) Event(Hit Electrode) TOF(0.0126485 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(143.108 mm) Y(-40 mm) Z(0 mm) Vt(10233.8 mm/usec) Azm(-0 deg) 
+Elv(-18 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(297.993 eV) KE_Error(3.75735e-011 eV) 
+
+Ion(26) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10268.5 mm/usec) Azm(0 deg) Elv(-20 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(300.019 eV) 
+KE_Error(2.94449e-011 eV) 
+
+Ion(26) Event(Hit Electrode) TOF(0.0113894 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(129.9 mm) Y(-40 mm) Z(0 mm) Vt(10268.5 mm/usec) Azm(-0 deg) 
+Elv(-20 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(300.019 eV) KE_Error(2.94449e-011 eV) 
+
+Ion(27) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10263.4 mm/usec) Azm(0 deg) Elv(-22 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(299.719 eV) 
+KE_Error(2.40448e-011 eV) 
+
+Ion(27) Event(Hit Electrode) TOF(0.0104038 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(119.004 mm) Y(-40 mm) Z(0 mm) Vt(10263.4 mm/usec) Azm(-0 deg) 
+Elv(-22 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(299.719 eV) KE_Error(2.40448e-011 eV) 
+
+Ion(28) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10295.5 mm/usec) Azm(0 deg) Elv(-24 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(301.596 eV) 
+KE_Error(3.57545e-011 eV) 
+
+Ion(28) Event(Hit Electrode) TOF(0.00955213 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(109.842 mm) Y(-40 mm) Z(0 mm) Vt(10295.5 mm/usec) Azm(-0 deg) 
+Elv(-24 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(301.596 eV) KE_Error(3.57545e-011 eV) 
+
+Ion(29) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10241.2 mm/usec) Azm(0 deg) Elv(-26 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(298.421 eV) 
+KE_Error(1.75646e-011 eV) 
+
+Ion(29) Event(Hit Electrode) TOF(0.00913254 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(104.063 mm) Y(-41 mm) Z(0 mm) Vt(10241.2 mm/usec) Azm(-0 deg) 
+Elv(-26 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(298.421 eV) KE_Error(1.75646e-011 eV) 
+
+Ion(30) Event(Ion Created) TOF(0 usec) Mass(0.00054858 amu) Charge(-1 e) 
+X(20.001 mm) Y(0 mm) Z(0 mm) Vt(10326.4 mm/usec) Azm(0 deg) Elv(-28 deg) 
+Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) KE(303.414 eV) 
+KE_Error(1.7053e-011 eV) 
+
+Ion(30) Event(Hit Electrode) TOF(0.00899339 usec) Mass(0.00054858 amu) 
+Charge(-1 e) X(102 mm) Y(-43.5996 mm) Z(0 mm) Vt(10326.4 mm/usec) Azm(-0 deg) 
+Elv(-28 deg) Grad_E(0 V/mm) dE/dx(0 V/mm) dE/dy(0 V/mm) dE/dz(0 V/mm) 
+KE(303.414 eV) KE_Error(1.7053e-011 eV) 
+
